@@ -1,8 +1,9 @@
-# Hi there, I'm Mazahir 👋
+# Hey, I'm Mazahir 👋
 
-- 🚀 I'm passionate about Web Development and building scalable, high-performance applications.
-- 🌱 Currently leveling up my skills in Full Stack Development (Node.js, Next.js, AWS, and more).
-- 💬 I love discussing ideas around tech, startups, and web architecture.
-- 🤝 I'm open to collaborations on exciting projects and freelance opportunities.
-- 📫 Feel free to reach out to me: [mazahir1220@gmail.com](mailto:mazahir1220@gmail.com)
+I'm a web developer who loves creating fast, scalable applications that actually make a difference.  
+Right now, I'm diving deep into Full Stack Development — working with technologies like Node.js, Next.js, AWS, and more.
 
+I'm always open to exciting freelance projects, collaborations, and new job opportunities.  
+If you think we'd be a good fit, let's connect!
+
+📫 Reach out to me at: [mazahir1220@gmail.com](mailto:mazahir1220@gmail.com)
