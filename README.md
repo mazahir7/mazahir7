@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @mazahir7
-- 👀 I’m interested in ...
-- 🌱 I’m currently into Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Mazahir 👋
 
-<!---
-mazahir7/mazahir7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚀 I'm passionate about Web Development and building scalable, high-performance applications.
+- 🌱 Currently leveling up my skills in Full Stack Development (Node.js, Next.js, AWS, and more).
+- 💬 I love discussing ideas around tech, startups, and web architecture.
+- 🤝 I'm open to collaborations on exciting projects and freelance opportunities.
+- 📫 Feel free to reach out to me: [mazahir1220@gmail.com](mailto:mazahir1220@gmail.com)
+
