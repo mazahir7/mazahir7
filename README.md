@@ -23,6 +23,7 @@ Comfortable working across the full development cycle — from designing APIs an
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) 
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) 
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat)
 
 **Cloud & Tools:**  
@@ -30,7 +31,6 @@ Comfortable working across the full development cycle — from designing APIs an
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
