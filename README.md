@@ -1,6 +1,5 @@
 # Hey, I'm Mazahir 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=mazahir1220&color=0e75b6&style=flat)
 Full stack developer with hands-on experience building web applications for esports platforms, e-commerce sites, and job portals.  
 Experienced in backend and frontend development, with a focus on performance, scalability, and clean architecture.  
 Comfortable working across the full development cycle — from designing APIs and databases to building responsive user interfaces.
