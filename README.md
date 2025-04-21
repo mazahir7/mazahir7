@@ -1,7 +1,10 @@
 # Hey, I'm Mazahir 👋
 
-I'm a web developer who loves creating fast, scalable applications that actually make a difference.  
-Right now, I'm diving deep into Full Stack Development — working with technologies like Node.js, Next.js, AWS, and more.
+Full stack developer with hands-on experience building web applications for esports platforms, e-commerce sites, and
+job portals. Experienced in backend and frontend development, with a focus on performance, scalability, and clean
+architecture. Comfortable working across the full development cycle — from designing APIs and databases to building
+responsive user interfaces.
+
 
 I'm always open to exciting freelance projects, collaborations, and new job opportunities.  
 If you think we'd be a good fit, let's connect!
